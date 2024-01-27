@@ -1,0 +1,3 @@
+[build]
+command = "npm run build" # Specify the build command if necessary
+publish = "public"
